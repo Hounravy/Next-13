@@ -1,0 +1,65 @@
+{
+  "title": "SEM",
+  "dsp": "Marketing",
+  "optimize": {
+    "title": "What is SEM Marketing?",
+    "dsp": "SEM is an essential tool for your business's thriving growth. By placing targeted ads on popular search engines, we can directly present your brand to potential customers. Purchasing relevant keyword ad placements ensures instant visibility and increased sales opportunities, boosting your online presence."
+  },
+  "benefit": {
+    "title": "Benefit of SEM",
+    "dsp": "Uncovering the value of SEM: expanding online business, attracting potential customers. The benefit of SEM:",
+    "cards": {
+      "card1": {
+        "title": "Precisely Attract the Right Customer",
+        "dsp": "By selecting specific keywords for advertising, we present your brand, products, or services directly to potential customers who are actively searching for related information."
+      },
+      "card2": {
+        "title": "Rapid Brand Exposure ",
+        "dsp": "Appear in search results, can swiftly boost your brand's visibility among the target audience."
+      },
+      "card3": {
+        "title": "Flexible Budget",
+        "dsp": "You can flexibly adjust ad placements according to your budget, ensuring that advertising stays within your financial means."
+      },
+      "card4": {
+        "title": "Data Optimization",
+        "dsp": "By continuously optimize advertising strategies to improve key metrics such as click-through rates and conversion rates."
+      },
+      "card5": {
+        "title": "Competitive Advantage",
+        "dsp": "In a competitive market, SEM can make you stand out in search results and attract more users."
+      }
+    }
+  },
+  "available": {
+    "title": "Our Available SEM Packages",
+    "dsp": "Unleash Potential, Showcase Your Brand: Our Featured SEM Solutions",
+    "btn": "Start Now",
+    "cards": {
+      "card1": {
+        "title": "SEM Gold Package",
+        "subTitle": "Pay By Ads",
+        "lists": {
+          "list1": "Keyword Research",
+          "list2": "Copy Writing",
+          "list3": "Ad Placement and Geographic Targeting",
+          "list4": "Periodic Progress Reports"
+        }
+      },
+      "card2": {
+        "title": "SEM Platinum Package",
+        "subTitle": "Pay By Ads",
+        "lists": {
+          "list1": "Benefit of Gold Package",
+          "list2": "Copy Writing and Graphic Design",
+          "list3": "Click and Conversion Tracking",
+          "list4": "Landing Page Optimization"
+        }
+      }
+    }
+  },
+  "provider": {
+    "title": "Connect with us instantly for all your needs with just one click.",
+    "btn": "Contact"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "leftPanel": {
+    "title": "Contact Us",
+    "whatsapp": "Whatsapp",
+    "telegram": "Telegram",
+    "wechat": "WeChat"
+  },
+  "rightPanel": {
+    "title": "Contact",
+    "name": "Name",
+    "contact": {
+      "title": "Contact Method",
+      "ex": "WeChat| Telegram | WhatsApp"
+    },
+    "message": "Message",
+    "btn": "Submit"
+  }
+}

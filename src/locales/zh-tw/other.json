@@ -1,0 +1,66 @@
+{
+  "title": "其他獨特服務",
+  "main": {
+    "title": "我們還提供更多的營銷服務",
+    "dsp": "攜手我們，拓展全面營銷戰略，引領您的品牌在競爭激烈的市場中獨樹一幟，獲得更多的機會與成就。",
+    "btn": "立即諮詢",
+    "cards": {
+      "card1": {
+        "title": "TIKTOK短視頻廣告",
+        "lists": {
+          "list1": "TikTok內容營銷",
+          "list2": "TikTok廣告",
+          "list3": "網紅營銷"
+        }
+      },
+      "card2": {
+        "title": "Youtube視頻推廣",
+        "lists": {
+          "list1": "YouTube 短視頻",
+          "list2": "YouTube SEO",
+          "list3": "YouTube 卡片廣告",
+          "list4": "網站推薦"
+        }
+      },
+      "card3": {
+        "title": "B2B業務建站",
+        "lists": {
+          "list1": "HTTPS網站加密",
+          "list2": "響應式網站",
+          "list3": "優秀的開發團隊，提供個性化的VIP服務",
+          "list4": "200多種語言"
+        }
+      },
+      "card4": {
+        "title": "手機APP推廣",
+        "lists": {
+          "list1": "Appstore 或 Google Play 推廣",
+          "list2": "網絡線上下預裝",
+          "list3": "應用內推廣"
+        }
+      },
+      "card5": {
+        "title": "Facebook / Instagram",
+        "lists": {
+          "list1": "品牌公共主頁",
+          "list2": "Facebook 廣告",
+          "list3": "Instagram 賬號運營",
+          "list4": "添加好友 & 分享按鈕"
+        }
+      },
+      "card6": {
+        "title": "更多渠道",
+        "lists": {
+          "list1": "Telegram / Whatsapp",
+          "list2": "微信 (WeChat)",
+          "list3": "Twitter / 小紅書 / 微博",
+          "list4": "LINE"
+        }
+      }
+    }
+  },
+  "provider": {
+    "title": "我們還提供更多服務，您們的需求我們都能滿足。一擊立馬跟我們溝通",
+    "btn": "聯絡我們"
+  }
+}

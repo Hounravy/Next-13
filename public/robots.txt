@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.playhorse8.com
+
+# Sitemaps
+Sitemap: https://www.playhorse8.com/sitemap.xml
+Sitemap: https://www.playhorse8.com/sitemap-main.xml

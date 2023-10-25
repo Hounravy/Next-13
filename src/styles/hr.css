@@ -1,0 +1,27 @@
+.bag-foot {
+  background-image: url('../../public/assets/main/bag-foot.png');
+}
+
+.bag-foots {
+  background-image: url('../../public/assets/main/foots.png');
+}
+
+.bg-house {
+  background-image: url('../../public/assets/main/gd-sec.png');
+}
+
+.bg-roww {
+  background: rgba(110, 103, 103, 0.2);
+}
+
+.bg-fire {
+  background-image: url('../../public/assets/main/fire.gif');
+}
+
+.bg-baner {
+  background-image: url('../../public/assets/main/bg-02.webp');
+}
+
+.bg-carosel {
+  background-image: url('../../public/assets/home/bg-house.png');
+}

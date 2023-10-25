@@ -1,0 +1,100 @@
+{
+  "title": "SEO",
+  "dsp": "Optimization",
+  "optimize": {
+    "title": "What is SEO Optimization?",
+    "dsp": "SEO involve optimize website content and structure to improve search engine understanding, recommendation, and visibility. It involves using keywords, enhancing page quality, and providing valuable information to attract visitors and boost search result prominence.",
+    "cards": {
+      "card1": "Streamlining SEO code implementation.",
+      "card2": "Detail Campaign Report",
+      "card3": "Advertisement Ranking Monitor",
+      "card4": "High Quality Backlinks"
+    }
+  },
+  "benefit": {
+    "title": "Benefit of SEO",
+    "dsp": "A comprehensive understanding of SEO: optimizing websites, expanding influence, and achieving business growth. The benefit of SEO included:",
+    "cards": {
+      "card1": {
+        "title": "Enhance Website Visibility",
+        "dsp": "Through optimization, your website will achieve higher rankings in search engines, allowing more potential users to discover your site."
+      },
+      "card2": {
+        "title": "Boost Brand Awareness",
+        "dsp": "Attaining higher rankings in search results can enhance brand exposure, garnering increased attention to your brand."
+      },
+      "card3": {
+        "title": "Becoming an Effective Competitors",
+        "dsp": "By optimizing your business, you can compete more effectively with rivals and attract a larger pool of potential customers."
+      },
+      "card4": {
+        "title": "Reduce Advertising Costs",
+        "dsp": "An optimized website can naturally generate more traffic, reducing reliance on paid advertising."
+      }
+    }
+  },
+  "available": {
+    "title": "Our Available SEO Packages",
+    "dsp": "Enhance Your Website's Visibility and Rankings: Comprehensive SEO Optimization Plan Package Selection",
+    "month": "month",
+    "btn": "Start Now",
+    "cards": {
+      "card1": {
+        "title": "SEO Silver Package",
+        "lists": {
+          "list1": "Website Building",
+          "list2": "Website Technical Consultation",
+          "list3": "1x SEO Strategy Analysis",
+          "list4": "30 Pages Optimized SEO Tags",
+          "list5": "20 High-Quality Articles",
+          "list6": "250 GPB External Links",
+          "list7": "10,000 GNB Natural External Links",
+          "list8": "GPC Spider Pool Service",
+          "list9": "12 Data Reports",
+          "list10": "50 Optimized Homepage Keywords",
+          "list11": "200 Keywords to Reach Top 100",
+          "list12": "Monthly Website Traffic: 500+"
+        }
+      },
+      "card2": {
+        "title": "SEO Gold Package",
+        "lists": {
+          "list1": "Website Building",
+          "list2": "Website Technical Consultation",
+          "list3": "2x SEO Strategy Analysis",
+          "list4": "40 Pages Optimized SEO Tags",
+          "list5": "45 High-Quality Articles",
+          "list6": "500 GPB External Links",
+          "list7": "10,000 GNB Natural External Links",
+          "list8": "GPC Spider Pool Service",
+          "list9": "12 Data Reports",
+          "list10": "100 Optimized Homepage Keywords",
+          "list11": "400 Keywords to Reach Top 100",
+          "list12": "Monthly Website Traffic: 1000+"
+        }
+      },
+      "card3": {
+        "title": "SEO Platinum Package",
+        "lists": {
+          "list1": "Website Building",
+          "list2": "Website Technical Consultation",
+          "list3": "2x SEO Strategy Analysis",
+          "list4": "40 Pages Optimized SEO Tags",
+          "list5": "60 High-Quality Articles",
+          "list6": "900 GPB External Links",
+          "list7": "10,000 GNB Natural External Links",
+          "list8": "GPC Spider Pool Service",
+          "list9": "12 Data Reports",
+          "list10": "150 Optimized Homepage Keywords",
+          "list11": "600 Keywords to Reach Top 100",
+          "list12": "Monthly Website Traffic: 1500+",
+          "list13": "60 External Articles on LinkedIn"
+        }
+      }
+    }
+  },
+  "provider": {
+    "title": "Connect with us instantly for all your needs with just one click.",
+    "btn": "Contact"
+  }
+}

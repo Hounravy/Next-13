@@ -1,0 +1,18 @@
+{
+  "leftPanel": {
+    "title": "联络我们",
+    "whatsapp": "Whatsapp",
+    "telegram": "Telegram",
+    "wechat": "微信"
+  },
+  "rightPanel": {
+    "title": "联络我们",
+    "name": "姓名",
+    "contact": {
+      "title": "联络方式",
+      "ex": "微信| Telegram | Whatsapp"
+    },
+    "message": "需求",
+    "btn": "提交"
+  }
+}
