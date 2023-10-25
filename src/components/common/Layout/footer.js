@@ -16,17 +16,15 @@ export default function Footer() {
           <div className='space-y-[23px] flex md:flex-row flex-col justify-between'>
             <div className='flex md:justify-between justify-center'>
               <Link href='/'>
-              
-                  <div className='md:w-[250px] w-[150px] px-[10px]'>
-                    <Image
-                      src='/assets/main/logo-with-text-nobg.png'
-                      alt='logo'
-                      layout='responsive'
-                      width={235}
-                      height={112}
-                    />
-                  </div>
-         
+                <div className='md:w-[250px] w-[150px] px-[10px]'>
+                  <Image
+                    src='/assets/main/logo-with-text-nobg.png'
+                    alt='logo'
+                    layout='responsive'
+                    width={235}
+                    height={112}
+                  />
+                </div>
               </Link>
             </div>
 
@@ -46,14 +44,12 @@ export default function Footer() {
                     </li>
                   ))}
                   <Link href={getPlayLink()}>
-              
-                      <button
-                        type='button'
-                        className='hover:scale-105 hover:transition-all hover:text-amber-600  md:w-[100px] w-[70px] bg-gradient-to-r from-golden to-golden rounded-[5px]  md:py-[5px] py-[5px] text-li text-black font-bold  '
-                      >
-                        馬上註冊
-                      </button>
-                  
+                    <button
+                      type='button'
+                      className='hover:scale-105 hover:transition-all hover:text-amber-600  md:w-[100px] w-[70px] bg-gradient-to-r from-golden to-golden rounded-[5px]  md:py-[5px] py-[5px] text-li text-black font-bold  '
+                    >
+                      馬上註冊
+                    </button>
                   </Link>
                 </ul>
               </div>

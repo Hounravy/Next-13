@@ -46,14 +46,12 @@ export const Btn = () => {
   return (
     <>
       <Link href={getPlayLink()}>
-       
-          <button
-            type='button'
-            className=' hover:scale-105 hover:transition-all hover:text-amber-600  bg-gradient-to-r from-golden to-golden text-black font-bold rounded-[5px] w-[150px] py-[10px] text-li'
-          >
-            閱讀更多
-          </button>
-       
+        <button
+          type='button'
+          className=' hover:scale-105 hover:transition-all hover:text-amber-600  bg-gradient-to-r from-golden to-golden text-black font-bold rounded-[5px] w-[150px] py-[10px] text-li'
+        >
+          閱讀更多
+        </button>
       </Link>
     </>
   );

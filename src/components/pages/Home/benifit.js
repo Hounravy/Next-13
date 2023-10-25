@@ -35,14 +35,12 @@ const benifit = () => {
               問題快，這些條件只有在我們平台買馬易才能感受得到的。快來到買馬易，讓你感受最佳賭馬體驗
             </p>
             <Link href={getPlayLink()}>
-          
-                <button
-                  type='button'
-                  className='hover:scale-105 hover:transition-all hover:text-amber-600 bg-gradient-to-r from-golden to-golden rounded-[5px] w-[150px] py-[10px] text-li text-black font-bold'
-                >
-                  前往官網
-                </button>
-            
+              <button
+                type='button'
+                className='hover:scale-105 hover:transition-all hover:text-amber-600 bg-gradient-to-r from-golden to-golden rounded-[5px] w-[150px] py-[10px] text-li text-black font-bold'
+              >
+                前往官網
+              </button>
             </Link>
           </div>
         </div>

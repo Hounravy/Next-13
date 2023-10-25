@@ -17,14 +17,12 @@ export default function Banner() {
           </p>
           <div className='flex justify-center lg:justify-start'>
             <Link href={getPlayLink()}>
-             
-                <button
-                  type='button'
-                  className='hover:scale-105 hover:transition-all hover:text-amber-600 bg-golden rounded-[5px] w-[150px] py-[10px] text-18px text-black font-bold '
-                >
-                  馬上下注
-                </button>
-             
+              <button
+                type='button'
+                className='hover:scale-105 hover:transition-all hover:text-amber-600 bg-golden rounded-[5px] w-[150px] py-[10px] text-18px text-black font-bold '
+              >
+                馬上下注
+              </button>
             </Link>
           </div>
         </div>

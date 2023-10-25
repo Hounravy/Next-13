@@ -33,17 +33,15 @@ export default function Navbar() {
         <div className='flex items-center justify-between py-2 md:py-0'>
           <div className='py-[10px] lg:py-[16px] hidden lg:block'>
             <Link href='/'>
-         
-                <div className='w-[150px] md:w-[250px]'>
-                  <Image
-                    src='/assets/main/logo-with-text-nobg.png'
-                    alt='logo'
-                    layout='responsive'
-                    width={235}
-                    height={112}
-                  />
-                </div>
-             
+              <div className='w-[150px] md:w-[250px]'>
+                <Image
+                  src='/assets/main/logo-with-text-nobg.png'
+                  alt='logo'
+                  layout='responsive'
+                  width={235}
+                  height={112}
+                />
+              </div>
             </Link>
           </div>
 
@@ -99,23 +97,21 @@ export default function Navbar() {
                         {localesData.map((load) => (
                           <li key={load.id}>
                             <Link href={asPath} locale={load.locale}>
-                         
-                                <button
-                                  type='button'
-                                  className={`text-16px px-[10px] rounded-[5px] flex items-center justify-between  gap-[10px] w-full ${
-                                    locale !== load.locale ? 'bg-transparent' : 'bg-gray-200'
-                                  }`}
-                                  onClick={() => setShowLocale(false)}
-                                >
-                                  <span>{load.title}</span>
-                                  {/* <div>
+                              <button
+                                type='button'
+                                className={`text-16px px-[10px] rounded-[5px] flex items-center justify-between  gap-[10px] w-full ${
+                                  locale !== load.locale ? 'bg-transparent' : 'bg-gray-200'
+                                }`}
+                                onClick={() => setShowLocale(false)}
+                              >
+                                <span>{load.title}</span>
+                                {/* <div>
                                     <FaCheck
                                       size={14}
                                       className={locale !== load.locale && 'text-transparent'}
                                     />
                                   </div> */}
-                                </button>
-                             
+                              </button>
                             </Link>
                           </li>
                         ))}
@@ -134,17 +130,15 @@ export default function Navbar() {
           <div className='flex items-center gap-[10px]'>
             <div className='py-[10px] lg:py-[16px] lg:hidden'>
               <Link href='/'>
-         
-                  <div className='w-[100px] md:w-[250px]'>
-                    <Image
-                      src='/assets/main/logo-with-text-nobg.png'
-                      alt='logo'
-                      layout='responsive'
-                      width={235}
-                      height={112}
-                    />
-                  </div>
-              
+                <div className='w-[100px] md:w-[250px]'>
+                  <Image
+                    src='/assets/main/logo-with-text-nobg.png'
+                    alt='logo'
+                    layout='responsive'
+                    width={235}
+                    height={112}
+                  />
+                </div>
               </Link>
             </div>
             {/* <div className='flex items-center'>
@@ -172,23 +166,21 @@ export default function Navbar() {
                     {localesData.map((load) => (
                       <li key={load.id}>
                         <Link href={asPath} locale={load.locale}>
-                        
-                            <button
-                              type='button'
-                              className={`text-16px px-[10px] rounded-[5px] flex items-center justify-between gap-[10px] w-full ${
-                                locale !== load.locale ? 'bg-transparent' : 'bg-gray-200'
-                              }`}
-                              onClick={() => setShowLocale(false)}
-                            >
-                              <span>{load.title}</span>
-                              {/* <div>
+                          <button
+                            type='button'
+                            className={`text-16px px-[10px] rounded-[5px] flex items-center justify-between gap-[10px] w-full ${
+                              locale !== load.locale ? 'bg-transparent' : 'bg-gray-200'
+                            }`}
+                            onClick={() => setShowLocale(false)}
+                          >
+                            <span>{load.title}</span>
+                            {/* <div>
                                 <FaCheck
                                   size={14}
                                   className={locale !== load.locale && 'text-transparent'}
                                 />
                               </div> */}
-                            </button>
-                        
+                          </button>
                         </Link>
                       </li>
                     ))}
@@ -222,11 +214,9 @@ export default function Navbar() {
                   <li key='/' className='px-[20px]'>
                     <div className='px-[20px] py-[10px] border-b-[1px]'>
                       <Link href={load.linkTo} locale={locale}>
-                       
-                          <button type='button' onClick={() => setShowMenu(false)}>
-                            {load.trans}
-                          </button>
-                      
+                        <button type='button' onClick={() => setShowMenu(false)}>
+                          {load.trans}
+                        </button>
                       </Link>
                     </div>
                   </li>
