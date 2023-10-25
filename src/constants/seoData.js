@@ -13,8 +13,7 @@ export const seoDefualt = {
   linkTo: '/',
   seo: {
     title: 'Next-13',
-    description:
-      'Sample Description here',
+    description: 'Sample Description here',
     keywords: '',
     images: [],
     faq: faqDefault,
