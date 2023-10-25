@@ -12,7 +12,7 @@ export const faqDefault = [
 export const seoDefualt = {
   linkTo: '/',
   seo: {
-    title: 'Next-13',
+    title: 'NextJs-13',
     description: 'Sample Description here',
     keywords: '',
     images: [],
